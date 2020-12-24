@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 b2sdk = "*"
 python-dotenv = "*"
+requests = "*"
 
 [dev-packages]
 
